@@ -1,3 +1,3 @@
 # gellany_nodeoop
 
-this project inspiring from best practices from https://github.com/azat-co/practicalnode by refactoring encapsulation oop
+this project is encapsulation oop refactoring from best practices of https://github.com/azat-co/practicalnode 
