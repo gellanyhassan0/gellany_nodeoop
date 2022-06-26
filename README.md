@@ -11,7 +11,7 @@ this project is encapsulation oop refactoring from best practices of https://git
 <code> node gellany_nodeoop2.js</code><br>
 
 <codeForm request: [Object: null prototype] {</code><br>
-  <codefirstName: 'elgilany',</code><br>
-  <codelastName: 'hassan',</code><br>
-  <codeemail: 'gellanyhassan0@gmail.com'</code><br>
-<code}</code><br>
+  <code>firstName: 'elgilany',</code><br>
+  <code>lastName: 'hassan',</code><br>
+  <code>email: 'gellanyhassan0@gmail.com'</code><br>
+<code>}</code><br>
